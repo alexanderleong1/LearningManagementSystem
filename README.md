@@ -11,3 +11,6 @@
 ![image](https://user-images.githubusercontent.com/99528025/164763585-965680a3-3878-463a-ab7e-8505409007d5.png)
 
 ![image](https://user-images.githubusercontent.com/99528025/164763656-c554e482-2a5f-48f4-a865-5a2e0815ea16.png)
+
+# Instructor screen:
+![image](https://user-images.githubusercontent.com/99528025/164763795-467d1122-5ce6-4798-b304-f8c6db69dbd5.png)
